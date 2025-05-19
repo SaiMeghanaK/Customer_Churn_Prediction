@@ -3,7 +3,7 @@ This project predicts whether a certain customer is more likely to continue usin
 
 For this project, I am using this public dataset : https://www.kaggle.com/datasets/radheshyamkollipara/bank-customer-churn?select=Customer-Churn-Records.csv in which the target variable is a categorical value. 
 
-Techniques used: Data Cleaning, SMOTE for class balancing,Logistic Regression and Decision Tree
+Techniques used: Data preprocessing, SMOTE for class balancing,Logistic Regression and Decision Tree
 
 This project requires the following python libraries:
 pandas,
